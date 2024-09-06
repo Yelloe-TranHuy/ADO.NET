@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam 3\\ADO.Net\\pjQLNV\\QuanLyNhanVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E367DB-4951-4B8F-B50F-091BDD805F80}|QuanLyNhanVien\\QuanLyNhanVien.csproj|D:\\Nam 3\\ADO.Net\\pjQLNV\\QuanLyNhanVien\\quanlynhanvien\\frmqlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1E367DB-4951-4B8F-B50F-091BDD805F80}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\frmqlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E367DB-4951-4B8F-B50F-091BDD805F80}|QuanLyNhanVien\\QuanLyNhanVien.csproj|d:\\nam 3\\ado.net\\pjqlnv\\quanlynhanvien\\quanlynhanvien\\frmqlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E367DB-4951-4B8F-B50F-091BDD805F80}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\frmqlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E367DB-4951-4B8F-B50F-091BDD805F80}|QuanLyNhanVien\\QuanLyNhanVien.csproj|D:\\Nam 3\\ADO.Net\\pjQLNV\\QuanLyNhanVien\\quanlynhanvien\\frmqlnv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E367DB-4951-4B8F-B50F-091BDD805F80}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\frmqlnv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E367DB-4951-4B8F-B50F-091BDD805F80}|QuanLyNhanVien\\QuanLyNhanVien.csproj|d:\\nam 3\\ado.net\\pjqlnv\\quanlynhanvien\\quanlynhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E367DB-4951-4B8F-B50F-091BDD805F80}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmQLNV.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\ADO.Net\\pjQLNV\\QuanLyNhanVien\\QuanLyNhanVien\\frmQLNV.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\frmQLNV.cs",
+              "ToolTip": "D:\\Nam 3\\ADO.Net\\pjQLNV\\QuanLyNhanVien\\QuanLyNhanVien\\frmQLNV.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVien\\frmQLNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:57:25.226Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmQLNV.cs",
+              "DocumentMoniker": "D:\\Nam 3\\ADO.Net\\pjQLNV\\QuanLyNhanVien\\QuanLyNhanVien\\frmQLNV.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\frmQLNV.cs",
+              "ToolTip": "D:\\Nam 3\\ADO.Net\\pjQLNV\\QuanLyNhanVien\\QuanLyNhanVien\\frmQLNV.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\frmQLNV.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAwI0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:44:12.747Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nam 3\\ADO.Net\\pjQLNV\\QuanLyNhanVien\\QuanLyNhanVien\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Program.cs",
+              "ToolTip": "D:\\Nam 3\\ADO.Net\\pjQLNV\\QuanLyNhanVien\\QuanLyNhanVien\\Program.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T00:49:58.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmQLNV.Designer.cs",
+              "DocumentMoniker": "D:\\Nam 3\\ADO.Net\\pjQLNV\\QuanLyNhanVien\\QuanLyNhanVien\\frmQLNV.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\frmQLNV.Designer.cs",
+              "ToolTip": "D:\\Nam 3\\ADO.Net\\pjQLNV\\QuanLyNhanVien\\QuanLyNhanVien\\frmQLNV.Designer.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\frmQLNV.Designer.cs",
+              "ViewState": "AgIAAAECAAAAAAAAAAAlwBACAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:51:33.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

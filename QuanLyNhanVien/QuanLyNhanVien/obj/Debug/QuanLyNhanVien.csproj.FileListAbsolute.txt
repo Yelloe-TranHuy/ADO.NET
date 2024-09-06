@@ -1,0 +1,91 @@
+D:\BaiTapDNTU\Lập trình ADO.NET\Bài tập\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\BaiTapDNTU\Lập trình ADO.NET\Bài tập\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\BaiTapDNTU\Lập trình ADO.NET\Bài tập\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\BaiTapDNTU\Lập trình ADO.NET\Bài tập\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+D:\BaiTapDNTU\Lập trình ADO.NET\Bài tập\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmQLNV.resources
+D:\BaiTapDNTU\Lập trình ADO.NET\Bài tập\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+D:\BaiTapDNTU\Lập trình ADO.NET\Bài tập\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.cache
+D:\BaiTapDNTU\Lập trình ADO.NET\Bài tập\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\BaiTapDNTU\Lập trình ADO.NET\Bài tập\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\BaiTapDNTU\Lập trình ADO.NET\Bài tập\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmQLNV.resources
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.cache
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Azure.Core.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Azure.Identity.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.Identity.Client.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Buffers.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.ClientModel.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Memory.Data.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Memory.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Numerics.Vectors.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Security.AccessControl.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Security.Permissions.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Security.Principal.Windows.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Text.Encodings.Web.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Text.Json.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.ValueTuple.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Azure.Core.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Azure.Identity.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.Identity.Client.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Buffers.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.ClientModel.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Memory.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Memory.Data.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Numerics.Vectors.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Security.AccessControl.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Security.Permissions.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Security.Principal.Windows.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Text.Encodings.Web.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Text.Json.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\System.ValueTuple.xml
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3\ADO.Net\pjQLNV\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNh.973645E6.Up2Date
